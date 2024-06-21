@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    color: white;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+ display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+
+.row input{
+margin: 0px;
+padding: 8px 1px;
+border: 2px solid black;
+border-radius: 5px;
+font-size: 20px;
+width: 291px;
+}   
